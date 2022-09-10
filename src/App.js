@@ -1,9 +1,9 @@
 import Navbar from "./components/Navbar";
-import Services from "./components/Services";
+// import Services from "./components/Services";
 import Welcome from "./components/Welcome";
 import "./app.scss" ;
 import "./style.scss" ;
-import Transactions from "./components/Transactions";
+// import Transactions from "./components/Transactions";
 
 
 function App() {
